@@ -1,0 +1,168 @@
+module Base {
+
+    item WLBLuvScars
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - LUV Scars,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLB20Minutes 
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - 20 Minutes,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBSky
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Sky,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBVampAnthem
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Vamp Anthem,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBNewTank
+    { 
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - New Tank,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBRichMinion 
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Rich Minion,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBSorryBoutThat
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Sorry Bout That,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBOutTheWay 
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Out The Way,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBXOTourLife
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - XO Tour Life,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBAllGirlsAreTheSame 
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - All Girls Are The Same,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBLucidDreams 
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Lucid Dreams,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBWishingWell 
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Wishing Well,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBTellEm 
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Tell Em,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBSevenCorps 
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Seven Corps,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+    item WLBMoonAndStars 
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= CD - Moon And Stars,
+        Icon				= Disc,
+        Weight				= 0.1,
+        WorldStaticModel    = Disk,
+        MediaCategory       = CDs,
+    }
+
+}

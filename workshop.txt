@@ -1,0 +1,5 @@
+version=1
+title=Whole Lotta Blood
+description=Some of today's latest and greatest hits, plus a few personal favorites of mine!
+tags=Items
+visibility=public
